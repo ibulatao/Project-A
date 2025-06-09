@@ -6,7 +6,7 @@ An open-source Python-based OCR tool designed to read forms from images or PDFs,
 
 ## Core Features
 
-Multi-format input: .jpg, .png, .pdf
+* Multi-format input: .jpg, .png, .pdf
 * Image preprocessing for OCR accuracy
 * Intelligent field mapping schema
 * Confidence-based warning system:
